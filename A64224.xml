@@ -1589,9 +1589,13 @@ the fourth Term, or Number sought, as you see in the aforegoing Example.</p>
                            <desc>〈…〉</desc>
                         </gap> or proportion.</p>
                      <pb facs="tcp:40282:43"/>
-                     <figure>
-                        <head>Plate 1   Page 65</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:40282:44"/>
+                        <pb facs="tcp:40282:44"/>
+                        <figure>
+                           <head>Plate 1   Page 65</head>
+                        </figure>
+                     </p>
                      <pb facs="tcp:40282:45"/>
                      <pb n="65" facs="tcp:40282:45"/>
                      <p>As Radius or S. 90°,</p>
@@ -2249,9 +2253,14 @@ Center,) from which all right or streight lines drawn unto the Circumference or 
                      <head>PROP. VI. To find the Suns Oblique Ascension or Descension.</head>
                      <p>First find the Ascensional Difference by the 5th Proposition, and his Right-ascension by the fourth: Now if the Suns Declination be Northerly, de<g ref="char:EOLhyphen"/>duct the Ascentional Difference out of his Right Ascension, from the beginning of ♈, (for the six Northern Signs ♈ ♉ ♊ ♋ ♌ ♍) it leaves the Oblique Ascension; and added unto the Right<g ref="char:EOLhyphen"/>ascension, giveth the Oblique-descension.</p>
                      <p>But if the Suns Declination be Southerly, the Ascentional Difference, added to the Right-ascensi<g ref="char:EOLhyphen"/>on, (for the six Southern Signs ♎ ♏ ♐ ♑ ♒ ♓) giveth the Right-ascension, and substracted there from leaves the Oblique-descension.</p>
-                     <figure>
-                        <head>Plate 11  Page 105</head>
-                     </figure>
+                     <p>
+                        <pb n="104" facs="tcp:40282:66"/>
+                        <pb facs="tcp:40282:67"/>
+                        <pb facs="tcp:40282:67"/>
+                        <figure>
+                           <head>Plate 11  Page 105</head>
+                        </figure>
+                     </p>
                   </div>
                   <div n="7" type="proposition">
                      <pb facs="tcp:40282:68"/>
@@ -2493,12 +2502,16 @@ first House, or Ascendent Degree of the Ecliptick, may be found thus.</p>
                      <p>To S. of the Stars Longitude from the next Equinoctial point,</p>
                      <p>So is Tc. of the Stars Latitude,</p>
                      <p>To T. of a fourth Arch.</p>
-                     <figure>
-                        <pb facs="tcp:40282:75"/>
-                        <pb facs="tcp:40282:76"/>
-                        <pb facs="tcp:40282:76"/>
-                        <head>Page 216  Plate III</head>
-                     </figure>
+                     <p>Which compared with the Arch of Distance betwixt the Poles of the World and the Ecliptick 23°, 30'; And if the Latitude and Longitude of the Star be both of one Dignity, i e. when the Star hath North Latitude in the six Northern Sines, ♈, ♉, ♊, ♋, ♌, ♍, or South Latitude in the six Southern Sines, ♎, ♏, ♐, ♑, ♒, ♓: Then shall the difference between this found Arch, and the
+<figure>
+                           <pb facs="tcp:40282:75"/>
+                           <pb facs="tcp:40282:76"/>
+                           <pb facs="tcp:40282:76"/>
+                           <head>Page 216  Plate III</head>
+                        </figure>
+                        <pb facs="tcp:40282:77"/>
+                        <pb n="117" facs="tcp:40282:77"/>
+Distance of the Poles be your fifth Arch: But if the Latitude and Longitude of the Star be of contrary qualities, i. e the one Northern, and the other Southern, then add this fourth Arch to the Distance of the Poles 23° 30', and the Sum thereof shall be your fifth Arch; with which,</p>
                      <p>AGAIN, say.</p>
                      <p n="2">2. As S. of the fourth Arch,</p>
                      <p>To S. of the fifth Arch,</p>
@@ -5325,9 +5338,22 @@ propounded, by 160, the Quotient is the number of Acres contained therein; and i
                      <p>So is Sc. of V. at A 50° 00',</p>
                      <p>To Log. cr. AD 222 4/10 Feet.</p>
                      <p>Now seeing the Hill or Mountain descendeth on the other side, you must place your Instru<g ref="char:EOLhyphen"/>ment at C, and direct your sights unto the Bottom at B, and the Angle DCB will be found 50° 00', and the Angle CBD 40° 00'. Then measuring down the Mountain as CB, it appea<g ref="char:EOLhyphen"/>reth</p>
-                     <figure>
-                        <head>Plate IV  Page 237</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:40282:139"/>
+                        <pb facs="tcp:40282:140"/>
+                        <pb facs="tcp:40282:140"/>
+                        <figure>
+                           <head>Plate IV  Page 237</head>
+                        </figure>
+                        <note place="margin">4.</note>
+                        <note place="margin">63.</note>
+                        <note place="margin">
+                           <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</note>
+                        <pb facs="tcp:40282:141"/>
+                        <pb n="237" facs="tcp:40282:141"/>
+to be 415 Feet; then have you the An<g ref="char:EOLhyphen"/>gles DCB, and CBD.</p>
                      <p>To find DB, part of AB, say,</p>
                      <p>As Radius or S. 90°,</p>
                      <p>To Log. cr. CB 415 Feet.</p>
@@ -5759,9 +5785,19 @@ made both an East, and a West Dial; which is the same in all respects, only wher
                      <p>This Plane or Dial must stand upright, ha<g ref="char:EOLhyphen"/>ving his face or Plane, if it be a South Dial, di<g ref="char:EOLhyphen"/>rectly opposite unto the South; but if a North Plane, directly opposite unto the North; now admit it be required to make a Direct South Dial,<note place="margin">Fig. 68.</note> for the Latitude of 51° 32': To make which first describe the Circle ABCD, to represent an E<gap reason="illegible" extent="1 letter">
                            <desc>•</desc>
                         </gap>ect direct South Plane, cross it with the Dia<g ref="char:EOLhyphen"/>meters CB, and AD, then out of your Line of Chords take 38° 28', the Complement of the La<g ref="char:EOLhyphen"/>titude, and set it from A, unto a, and from B, unto b, Then lay a Ruler from C unto a, and it will cut the Meridian ARD, in P, the Poles of</p>
-                     <figure>
-                        <head>Plate V Page 261</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:40282:154"/>
+                        <pb facs="tcp:40282:155"/>
+                        <pb facs="tcp:40282:155"/>
+                        <figure>
+                           <head>Plate V Page 261</head>
+                        </figure>
+                        <note place="margin">Fig.</note> 
+                        <note place="margin">Fig. 68.</note>
+                        <note place="margin">Fig.</note>
+                        <note place="margin">69.</note>
+                        <pb n="262" facs="tcp:40282:156"/>
+other hath the North Pole of the World eleva<g ref="char:EOLhyphen"/>ted above it, and beholdeth the North part of the Meridian. The Hour-lines of 9, 10, 11, or 1, 2, and 3, is not expressed on this Plane, because 12, representeth 12, at Midnight; neither are the other said Hours expressed, because the Sun is never above the Horizon, at those Hours; Therefore the North Dial is capable only to<note place="margin">Fig. 69.</note> receive these Hours, namely 4, 5, 6, 7, and 8, in the Morning; and 4, 5, 6, 7, and 8, at Night; as doth plainly appear in the Figure: Now the distance of the Hour-lines from the Meridian, may be found by this Analogy, or Propor<g ref="char:EOLhyphen"/>tion.</p>
                      <p>As Radius or S. 90°,</p>
                      <p>To Sc. of the Latitude.</p>
                      <p>So is T. of the Hour from Noon,</p>
@@ -6365,12 +6401,20 @@ the Angle AEPK, lay a Ruler from P, unto AE, and it cutteth the Plane in X, then
                      <p>Thus I have explained the making and de<g ref="char:EOLhyphen"/>lineating of the best and most usefull Dials both by Geometrical Projection, and also by A<g ref="char:EOLhyphen"/>rithmetical Calculations, in as brief and compen<g ref="char:EOLhyphen"/>dious a manner as possible. There are sundry other kind of Dials, as Incliners, Decliners, and Recliners, which being not so usefull, for bre<g ref="char:EOLhyphen"/>vity sake, they are here omitted: As for Instru<g ref="char:EOLhyphen"/>mental Dials, as Quadrants, Rings, Cylinders, &amp;c. Which depend on the Sun's height, I refer you to Mr. Edm. Gunter's Book, wherein they are largely described.</p>
                      <p>As for the Beautifying and Adorning of those Dials, &amp;c. by describing on them the Equi<g ref="char:EOLhyphen"/>noctial, Tropicks, Parallels of Declination, Paral<g ref="char:EOLhyphen"/>lels of the Sun's Place, Length of Days, the Sun's Rising and Setting, Jewish, Italian, and Babylo<g ref="char:EOLhyphen"/>nish Hours, Almicanthars, Azimuths, Circles of Position, the Signs Right Ascending, Descending, Culminating, &amp;c. I do advise you to consult Mr. Gunter, Mr. Foster, Mr. Wells, and Mr. Holwel's Works, all which Authors have very learnedly shewed the describing of them, by several large Schemes, and Figures, for the plainer Illustration thereof.</p>
                      <p>Now seeing the Latitude of a Place must be first known, before a Dial can be made to it,</p>
-                     <figure>
-                        <head>Plate VI  P<gap reason="illegible: missing" extent="1 span">
-                              <desc>〈…〉</desc>
-                           </gap>
-                        </head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:40282:160"/>
+                        <pb facs="tcp:40282:161"/>
+                        <pb facs="tcp:40282:161"/>
+                        <figure>
+                           <head>Plate VI  P<gap reason="illegible: missing" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                           </head>
+                        </figure>
+                        <note place="margin">Fig. 72.</note>
+                        <pb facs="tcp:40282:162"/>
+                        <pb n="271" facs="tcp:40282:162"/>
+I have therefore hereunto annexed a Table of the Latitudes of all the principal Cities, Towns, and Islands, in and about Great Britain and Ire<g ref="char:EOLhyphen"/>land; so that if you are to make a Dial, for any of those parts, you may have recourse to this Table, and make your Dial to the Latitude of that place, which you find to be the nearest to the Place, for which you are to make your Dial.</p>
                      <div type="table">
                         <head>A Table of the Names and Latitudes of all the Principal Cities, Towns, and Islands, in and about Great Britain and Ireland.</head>
                         <p>
